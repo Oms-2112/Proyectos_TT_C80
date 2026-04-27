@@ -5,3 +5,5 @@ Resolvimos x ejercicios de Pythin Básico enfocados en las siguientes habilidade
 - 1
 - 2
 - 3
+- 4
+- 5
